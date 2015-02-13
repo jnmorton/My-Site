@@ -1,3 +1,19 @@
-*{
-  background: #ffffff;
-}
+*{margin: 0;
+  text-align: center;
+  font-family: georgia;
+/*border: 1px dotted red;*/}
+h1,h2,h3,h4,h5 {helvetica;
+font-size: 2em}
+.puppy{font-family: arial;}
+header {background: red;
+text-align: center; font-family: garamond}
+footer {
+  background: grey;
+  border: 5px solid #000000}
+h1 {font-size: 4em}
+section
+{padding: 10px}
+.kitten{text-align: center;}
+.paragraph {
+  width: 50ex;
+  display: inline-block}
